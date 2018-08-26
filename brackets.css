@@ -1,3 +1,10 @@
 *{
-    background-color: aqua;
+  font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+ 
+}
+.al {
+    text-align: center;
+    margin-top: 155px;
+    font-kerning: normal;
 }
