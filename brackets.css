@@ -1,10 +1,25 @@
 *{
   font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 300;
+   
  
 }
 .al {
-    text-align: center;
+    
     margin-top: 155px;
     font-kerning: normal;
+    position: fixed;
+    margin-left: 500px;
+    font-weight: 300;
+}
+
+.sh {
+    list-style: none;
+    float: left;
+    
+}
+
+.sgsdj {
+    float: left;
+    padding-right: 50px;
+    
 }
