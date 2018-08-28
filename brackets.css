@@ -15,11 +15,43 @@
 .sh {
     list-style: none;
     float: left;
+    background-image: url(logo.png);
+    background-repeat: no-repeat;
+    line-height: 26px;
+    color:silver;
+    
     
 }
 
 .sgsdj {
     float: left;
-    padding-right: 50px;
+    padding-right: 30px;
     
+    
+}
+
+
+
+
+
+.lkl {
+    margin-left: 1100px;
+    }
+
+
+
+#iuu {
+    color: black;
+}
+
+.sgsdj:hover {
+    float: left;
+    padding-right: 30px;
+    color: black;
+   cursor: pointer;
+    }
+
+
+.lo:hover {
+    background-color: black;
 }
