@@ -15,43 +15,60 @@
 .sh {
     list-style: none;
     float: left;
-    background-image: url(logo.png);
-    background-repeat: no-repeat;
     line-height: 26px;
     color:silver;
-    
-    
-}
+    }
 
 .sgsdj {
     float: left;
-    padding-right: 30px;
+    
+    margin-left: 40px;
+   
     
     
-}
-
-
-
-
-
-.lkl {
-    margin-left: 1100px;
     }
-
 
 
 #iuu {
     color: black;
+   
+    
 }
 
 .sgsdj:hover {
     float: left;
-    padding-right: 30px;
     color: black;
-   cursor: pointer;
+    cursor: pointer;
+    border-bottom: 2px solid black;
+    top: 32px;
+    padding-bottom: 10px;
     }
 
 
 .lo:hover {
     background-color: black;
+}
+#iuu:hover{
+     border-bottom: 2px solid white;
+}
+
+
+
+.ss:hover {
+   color: black;
+    cursor:pointer;
+    
+}
+
+.kslk {
+    margin-left: 1200px;
+}
+
+.ksjk {
+    position: fixed;
+}
+
+#ff:hover{
+    border-bottom: 2px solid white;
+    
 }
