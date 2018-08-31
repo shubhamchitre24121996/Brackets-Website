@@ -1,30 +1,38 @@
 *{
   font-family: 'Source Sans Pro', sans-serif;
-   
+  background-color: #f0f2f3; 
+margin: 0px 0px 0px 0px;
  
 }
 .al {
     
     margin-top: 155px;
     font-kerning: normal;
+    margin-left: 400px;
+    font-weight: 1;
+    font-size: 40px;
+    color: #3c2d32;
     position: fixed;
-    margin-left: 500px;
-    font-weight: 300;
+    
 }
 
 .sh {
     list-style: none;
     float: left;
-    line-height: 26px;
+    line-height: 30px;
     color:silver;
+    position: fixed;
+    background-color: white;
+    margin-top:0px ;
+    padding-top: 20px;
+    padding-right: 48px;
     }
 
 .sgsdj {
+    
     float: left;
-    
-    margin-left: 40px;
-   
-    
+     margin-left: 40px;
+    background-color: white;
     
     }
 
@@ -52,13 +60,14 @@
      border-bottom: 2px solid white;
 }
 
-
+.ss{
+    background-color: white;
+}
 
 .ss:hover {
    color: black;
-    cursor:pointer;
-    
-}
+  cursor:pointer;
+   }
 
 .kslk {
     margin-left: 1200px;
@@ -66,9 +75,68 @@
 
 .ksjk {
     position: fixed;
+    display: block;
+    
+  
 }
 
 #ff:hover{
     border-bottom: 2px solid white;
     
 }
+
+
+
+.jjj {
+    background-color: #2098f5;
+    color: white;
+    margin-top: 260px;
+    margin-left: 600px;
+    height: 60px;
+    padding:0px 40px 0px 40px;
+    font-size: 15px;
+    position: fixed;
+    
+  
+    
+}
+
+.jjj:hover {
+    background-color: #278fe1;
+    cursor:pointer;
+}
+
+
+
+.mn {
+    color: #4398f5;
+    margin-top: 350px;
+    margin-left: 650px;
+    font-size: 15px;
+    position: fixed;
+}
+.mn:hover{
+    color: #3586e5;
+}
+
+
+
+
+
+.oop {
+    margin-top: 400px;
+   position: fixed;
+    margin-left: 200px;
+    width:900px;
+    
+}
+
+
+
+.wew {
+    
+ }
+
+
+
+
